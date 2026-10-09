@@ -8,7 +8,7 @@ NEXODIGITAL — WEB ESTÁTICA PREPARADA PARA ADSENSE
 - Revisa la política de privacidad/cookies con los servicios que realmente uses y la legislación aplicable.
 
 2. AdSense:
-- Los bloques con "Espacio publicitario" son marcadores, no anuncios reales.
+- Los bloques con  son marcadores, no anuncios reales.
 - Cuando Google AdSense te proporcione el código de anuncio, coloca el código oficial en esos huecos.
 - No hagas clic en tus propios anuncios ni pidas a otras personas que lo hagan.
 - Tener una web preparada no garantiza que AdSense la apruebe: Google revisa cada sitio.
